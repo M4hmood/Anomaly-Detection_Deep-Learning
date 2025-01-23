@@ -38,13 +38,13 @@
     {"type": "vehicle", "model": "sedan", "year": 2020}
   ],
    "image_data": [
-        "C:/Users/boual/OneDrive/Pictures/Screenshots/Screenshot 2024-11-07 224020.png",
-        "C:/Users/boual/OneDrive/Pictures/Screenshots/Screenshot 2024-11-07 213058.png",
-        "C:/Users/boual/OneDrive/Pictures/Screenshots/Screenshot 2024-11-05 134445.png"
+        "C:/Users/bouma/OneDrive/Pictures/Screenshots/Screenshot 2025-01-16 191725.png",
+        "C:/Users/bouma/OneDrive/Pictures/Screenshots/Screenshot 2025-01-18 201549.png",
+        "C:/Users/bouma/OneDrive/Pictures/Screenshots/Screenshot 2025-01-17 192142.png"
     ],
     "url_data": [
-        "https://github.com/CASANOVA660/Anomaly_derection_ML_model/blob/master/utils/data_loader.py",
+        "https://github.com/M4hmood/Anomaly-Detection_Deep-Learning/blob/main/utils/data_loader.py",
         "https://192.168.240.141/app/login?",
-        "https://casanova660.github.io/portfolio/?fbclid=IwY2xjawF54DRleHRuA2FlbQIxMAABHeCj4WeBsGSG9bBMMuZ00yT4oVtqOdgYOMVllkwuxyu-UbgTzei83AdT0Q_aem_hJhuO3bzE66OfBLiQYd2pA"
+        "https://github.com/M4hmood/SmartLock/blob/main/backend/controllers/cardController.js"
     ]
 }

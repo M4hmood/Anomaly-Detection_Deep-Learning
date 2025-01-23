@@ -65,7 +65,8 @@ def load_data(file_path):
 # Main script
 if __name__ == "__main__":
     # Load data
-    data_path = os.path.join('data', 'data.json')
+    # data_path = os.path.join('data', 'data.json')
+    data_path = "C:/Users/bouma/Desktop/LCE/LCE3_SE-IOT/AI_ML/Anomaly-Detection_Deep-Learning/data/data.json"
     X_train = load_data(data_path)
 
     # Initialize and train the model
@@ -75,6 +76,6 @@ if __name__ == "__main__":
     clf.fit(X_train)
 
     # Save the model
-    model_save_path = os.path.join('models', 'autoencoder.pth')
+    model_save_path = "C:/Users/bouma/Desktop/LCE/LCE3_SE-IOT/AI_ML/Anomaly-Detection_Deep-Learning/models/autoencoder.pth" # os.path.join('models', 'autoencoder.pth')
     torch.save(clf.model.state_dict(), model_save_path)
     print(f"Model saved to {model_save_path}")
